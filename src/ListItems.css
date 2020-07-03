@@ -1,0 +1,24 @@
+.list{
+    background-color: rgb(86, 173, 74);
+    width: 300px;
+    height: 45px;
+    margin: 20px auto;
+    
+    
+
+}
+.list p{
+    padding: 10px;
+    position: relative;
+}
+.list p span{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+
+}
+.list p input{
+    background-color: rgb(86, 173, 74) ;
+    border: 0;
+
+}
